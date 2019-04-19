@@ -1,0 +1,20 @@
+== 完全性
+
+完全性は"正確であり、完璧である特性"です。言い換えれば、完全性はデータのライフサイクル全体で、一貫性、正確性、信頼性を維持する、ということです。Data must not be changed during transit and it must be ensured, that data can not be altered by unauthorized people (per example in a breach of confidentiality).
+
+{nbsp} +
+
+=== 完全性を損なう例:
+
+** データ入力時のヒューマンエラー
+** データ転送の失敗
+** ソフトウェアのバグ、ハードウェアの不良
+** ハッカーによるデータの改竄
+
+{nbsp} +
+
+=== 完全性を確保する例
+
+** 正しく機能する認証方法とアクセス制御
+** ハッシュ値による完全性の確認
+** バックアップ、冗長化

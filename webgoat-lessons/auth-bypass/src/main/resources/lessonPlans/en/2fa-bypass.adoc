@@ -1,4 +1,3 @@
-
 == 2FA Password Reset
 
 A recent (2016) example (https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass) is a great example of authentication bypass. He was unable to receive an SMS with a code, so he opted for the provided

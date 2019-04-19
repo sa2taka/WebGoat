@@ -1,0 +1,6 @@
+=== もっと見てみる
+あなたは好きなようにコンテンツを組み立てることができます。あなたが良ければビデオを含めることもできます(ブラウザのサポートの対象になるかもしれませんが)。ただ、これよりもWebアプリケーションのセキュリティに関連したものにすることをおすすめします
+
+video::video/sample-video.m4v[width=480,start=5]
+
+ビデオのシンタックスに関してはこちら http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#videos

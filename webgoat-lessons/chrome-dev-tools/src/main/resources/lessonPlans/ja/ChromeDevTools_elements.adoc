@@ -1,0 +1,19 @@
+== エレメントタブ
+
+エレメントタブではHTMLとCSSのコードを見ることができます。これらはwebサイトの構造とスタイルに使用されてします。
+
+=== HTMLのソース
+
+どこか一行にホバーしたらWebサイトの一部分が青くなるかもしれません。それはそのHTMLのラインが青くなったWebサイトを定義している事を意味しています。
+エレメントタブではHTML要素ごとに変更を加えることができます。
+例えば、段落タグ(<p>...</p>)の中を書き換えられます。編集を終えてクリックを押したら、Chromeは実際にWebサイトを更新して編集内容を表示します。また、HTMLタグやクラス、IDを変更することも可能です。
+
+image::images/ChromeDev_Elements.jpg[DeveloperToolsElements,500,350,style="lesson-image"]
+
+=== CSSのソース
+
+HTMLソースの下には、Webサイトで使われるCSS情報が表示されます。
+HTMLと同様に、CSSを編集して、Webサイトのスタイルを調整できます。
+特定の値を編集したり、スタイルを無効化することも可能です。
+
+image::images/ChromeDev_Elements_CSS.jpg[DeveloperToolsElementsCSS,500,350,style="lesson-image"]

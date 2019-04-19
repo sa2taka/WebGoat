@@ -1,0 +1,8 @@
+== コンソールを使ってみよう
+
+コンソールを使って、次のjavascriptの命令を実行してみよう: *webgoat.customjs.phoneHome()*. +
+すると、次のようなレスポンスが返ってくると思います:
+`phone home said
+{"lessonCompleted:true, ... ,"output":"phone home response is..."`
+その後、ランダムな数字を下のテキストフィールドに貼り付けてください。
+(関数が呼ばれるたびにランダムな数字が生成されます。必ず最新の値を取得したことを確認してください)
